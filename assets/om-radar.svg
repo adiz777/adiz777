@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="600" height="180" viewBox="0 0 600 180" role="img" aria-labelledby="t d">
+<title id="t">OM reconnaissance module</title><desc id="d">Animated radar sweep and scanning target markers for the OM automated reconnaissance project.</desc>
+<defs><linearGradient id="bg"><stop stop-color="#07101b"/><stop offset="1" stop-color="#0d1a2b"/></linearGradient><radialGradient id="rad"><stop stop-color="#58a6ff" stop-opacity=".15"/><stop offset="1" stop-color="#58a6ff" stop-opacity="0"/></radialGradient></defs>
+<rect width="600" height="180" rx="12" fill="url(#bg)" stroke="#27405d"/>
+<g stroke="#58a6ff" stroke-opacity=".18" fill="none"><circle cx="92" cy="90" r="25"/><circle cx="92" cy="90" r="48"/><circle cx="92" cy="90" r="72"/><path d="M20 90H164M92 18V162M41 39L143 141M143 39L41 141"/></g>
+<circle cx="92" cy="90" r="72" fill="url(#rad)"/>
+<path d="M92 90L92 18A72 72 0 0 1 164 90Z" fill="#58a6ff" fill-opacity=".13"><animateTransform attributeName="transform" type="rotate" from="0 92 90" to="360 92 90" dur="4s" repeatCount="indefinite"/></path>
+<circle cx="119" cy="56" r="3" fill="#d6b15e"><animate attributeName="r" values="2;5;2" dur="1.4s" repeatCount="indefinite"/></circle><circle cx="61" cy="111" r="3" fill="#58a6ff"><animate attributeName="opacity" values=".2;1;.2" dur="1.7s" repeatCount="indefinite"/></circle><circle cx="111" cy="125" r="2.5" fill="#58a6ff"><animate attributeName="opacity" values="1;.25;1" dur="2.1s" repeatCount="indefinite"/></circle>
+<g font-family="monospace"><text x="190" y="53" fill="#d6b15e" font-size="11" letter-spacing="2">MODULE 01 // RECON</text><text x="190" y="87" fill="#e6edf3" font-size="29" font-weight="bold">OM_</text><text x="190" y="111" fill="#8b9bb0" font-size="12">AUTOMATED RECONNAISSANCE</text><text x="190" y="142" fill="#58a6ff" font-size="11">[ TARGET DISCOVERY ACTIVE ]</text><rect x="190" y="153" width="365" height="2" rx="1" fill="#1e3047"/><rect x="190" y="153" width="90" height="2" fill="#58a6ff"><animate attributeName="width" values="35;310;120;365;35" dur="5s" repeatCount="indefinite"/></rect></g>
+</svg>
