@@ -5,10 +5,10 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=venom&height=220&color=0b1220&text=DHARMACIPHER&fontColor=58a6ff&fontSize=48&fontAlignY=38&desc=INITIALIZING%20SECURITY%20INTELLIGENCE...&descAlignY=61&descSize=14&animation=fadeIn" width="100%" alt="DharmaCipher animated terminal-inspired banner" />
+<img src="https://raw.githubusercontent.com/adiz777/adiz777/main/assets/dharmacipher-terminal.svg" width="100%" alt="Animated DharmaCipher terminal with scanning beam, rotating security emblem, signal trace and blinking cursor" />
 
 <a href="https://readme-typing-svg.demolab.com">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=2400&pause=700&color=58A6FF&center=true&vCenter=true&repeat=true&width=760&height=45&lines=adi%40DharmaCipher%3A~%24+whoami;Cybersecurity+%7C+OSINT+%7C+Reconnaissance;Mapping+attack+surfaces.+Automating+the+repeatable.;Building+OM+%2F%2F+NETRA+%2F%2F+what%27s+next%3F" alt="Animated terminal typing: cybersecurity, OSINT, reconnaissance, OM and NETRA" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=2200&pause=650&color=58A6FF&center=true&vCenter=true&repeat=true&width=760&height=45&lines=adi%40DharmaCipher%3A~%24+whoami;Cybersecurity+%7C+OSINT+%7C+Reconnaissance;Mapping+attack+surfaces.+Automating+the+repeatable.;Building+OM+%2F%2F+NETRA+%2F%2F+what%27s+next%3F" alt="Animated terminal typing effect" />
 </a>
 
 <p>
@@ -37,6 +37,10 @@
 ```
 
 I build practical security tooling around reconnaissance, attack-surface discovery, OSINT and repeatable investigation workflows. Interested in how systems expose information—and how to turn that information into useful, clearly documented findings.
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/adiz777/adiz777/main/assets/system-telemetry.svg" width="100%" alt="Animated system telemetry with pulsing status indicators and moving security module bars" />
+</div>
 
 ## `02 // ACTIVE PROJECTS`
 
