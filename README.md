@@ -44,11 +44,21 @@ I build practical security tooling around reconnaissance, attack-surface discove
 
 ## `02 // ACTIVE PROJECTS`
 
+<div align="center">
+  <a href="https://github.com/adiz777/Om">
+    <img src="https://raw.githubusercontent.com/adiz777/adiz777/main/assets/om-radar.svg" width="100%" alt="Animated OM reconnaissance radar, target markers and scanning sweep" />
+  </a>
+  <br/>
+  <a href="https://github.com/adiz777/NETRA">
+    <img src="https://raw.githubusercontent.com/adiz777/adiz777/main/assets/netra-graph.svg" width="100%" alt="Animated NETRA intelligence network with pulsing nodes and moving signal paths" />
+  </a>
+</div>
+
 <table>
 <tr>
 <td width="50%" valign="top">
 
-### <a href="https://github.com/adiz777/Om">OM<span>_</span></a> <sup> [01]</sup>
+### <a href="https://github.com/adiz777/Om">OM_ // 01</a>
 
 **AUTOMATED RECONNAISSANCE**
 
@@ -68,7 +78,7 @@ A command-line workflow that brings reconnaissance tools together with configura
 </td>
 <td width="50%" valign="top">
 
-### <a href="https://github.com/adiz777/NETRA">NETRA</a> <sup> [02]</sup>
+### <a href="https://github.com/adiz777/NETRA">NETRA // 02</a>
 
 **CYBERSECURITY INTELLIGENCE**
 
@@ -129,7 +139,9 @@ document  "deliver findings people can act on"
 
 <div align="center">
 
-`[ LINK ESTABLISHED ]` &nbsp; [adizala.me](https://adizala.me)
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=13&duration=1800&pause=800&color=D6B15E&center=true&vCenter=true&repeat=true&width=560&height=26&lines=%5B+LINK+ESTABLISHED+%5D;%5B+SIGNAL+STABLE+%2F%2F+KEEP+BUILDING+%5D" alt="Animated terminal status footer" />
+
+[adizala.me](https://adizala.me) &nbsp; // &nbsp; [github.com/adiz777](https://github.com/adiz777)
 
 <sub>DHARMACIPHER // Discipline. Curiosity. Purpose.</sub>
 
