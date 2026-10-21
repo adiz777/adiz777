@@ -1,106 +1,128 @@
 <!--
-  Adi Zala | Cybersecurity
-  GitHub Dark-inspired, recruiter-focused profile README
+  ADI ZALA // DHARMACIPHER
+  Terminal-inspired profile | Cybersecurity • OSINT • Automation
 -->
 
 <div align="center">
 
-  <img src="https://capsule-render.vercel.app/api?type=rect&height=180&color=0d1117&text=ADI%20ZALA&fontColor=58a6ff&fontSize=48&fontAlignY=42&desc=CYBERSECURITY%20%7C%20OSINT%20%7C%20SECURITY%20AUTOMATION&descAlignY=68&descSize=14" width="100%" alt="Adi Zala — Cybersecurity, OSINT and Security Automation" />
+<img src="https://capsule-render.vercel.app/api?type=venom&height=190&color=0b1220&text=DHARMACIPHER&fontColor=58a6ff&fontSize=44&fontAlignY=42&desc=ADI%20ZALA%20%2F%2F%20SECURITY%20%2B%20INTELLIGENCE&descAlignY=65&descSize=13" width="100%" alt="DharmaCipher — Adi Zala, security and intelligence" />
 
-  <p>
-    <a href="https://adizala.me"><img src="https://img.shields.io/badge/Portfolio-adizala.me-58a6ff?style=for-the-badge&logo=firefox-browser&logoColor=white" alt="Portfolio" /></a>
-    <a href="https://github.com/adiz777"><img src="https://img.shields.io/badge/GitHub-adiz777-21262d?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
-    <a href="mailto:adizala7303@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-30363d?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-  </p>
+<p>
+  <img src="https://img.shields.io/badge/USER-adi-0b1220?style=flat-square&labelColor=161b22&color=58a6ff" alt="User adi" />
+  <img src="https://img.shields.io/badge/HOST-DharmaCipher-0b1220?style=flat-square&labelColor=161b22&color=d6b15e" alt="Host DharmaCipher" />
+  <img src="https://img.shields.io/badge/LOCATION-Watford%2C%20UK-0b1220?style=flat-square&labelColor=161b22&color=58a6ff" alt="Location Watford UK" />
+  <img src="https://img.shields.io/badge/STATUS-Building-0b1220?style=flat-square&labelColor=161b22&color=3fb950" alt="Status building" />
+</p>
 
-  **Cybersecurity MSc graduate based in Watford, United Kingdom**
+**Cybersecurity graduate. Recon mindset. Builder at heart.**
 
-  *Building practical tools for reconnaissance, OSINT, and security intelligence.*
+[Portfolio](https://adizala.me) · [Repositories](https://github.com/adiz777?tab=repositories) · [Email](mailto:adizala7303@gmail.com)
 
 </div>
 
 ---
 
-## About
+### `adi@DharmaCipher:~$ whoami`
 
-I’m a cybersecurity graduate interested in security research, attack-surface discovery, OSINT, and automating repetitive security workflows. I enjoy turning practical security problems into tools that are useful, understandable, and reproducible.
+```text
+NAME       Adi Zala
+ROLE       Cybersecurity | OSINT | Security Automation
+EDUCATION  MSc Cybersecurity — University of Hertfordshire
+BASE       Watford, United Kingdom
+FOCUS      Reconnaissance, attack-surface discovery, web security, Linux
+MINDSET    Learn the system. Understand the signal. Build the tool.
+```
 
-- **Education:** MSc Cybersecurity — University of Hertfordshire
-- **Based in:** Watford, United Kingdom
-- **Core interests:** Reconnaissance · OSINT · Web Security · Linux · Security Automation
-- **Portfolio:** [adizala.me](https://adizala.me)
-- **Currently building:** Security tooling and intelligence workflows
+I like getting beneath the surface: mapping exposed attack surfaces, connecting useful intelligence, and turning repeatable security tasks into practical tooling. My work blends hands-on security tools, scripting, and investigation workflows.
 
-## Featured projects
+### `adi@DharmaCipher:~$ ls ~/projects`
 
 <table>
   <tr>
     <td width="50%" valign="top">
-      <h3><a href="https://github.com/adiz777/Om">OM — Automated Reconnaissance</a></h3>
-      A Bash-based reconnaissance tool designed to bring common discovery and information-gathering tasks into one workflow, with configurable scan intensity and HTML reporting.
-      <br/><br/>
-      <strong>Focus:</strong> Nmap, Amass, Sublist3r, DNSRecon, WhatWeb, WafW00f, SSLScan, theHarvester, Gobuster and CMSeeK.
-      <br/><br/>
-      <a href="https://github.com/adiz777/Om">View repository →</a>
-    </td>
+
+#### <a href="https://github.com/adiz777/Om">01 / OM</a>
+**Automated Reconnaissance Tool**
+
+```text
+TYPE  Bash security tooling
+MODE  Recon • Enumeration • Reporting
+```
+
+Brings common reconnaissance utilities into one workflow, with configurable scan intensity and HTML reports.
+
+**Stack:** Nmap · Amass · Sublist3r · DNSRecon · WhatWeb · WafW00f · SSLScan · theHarvester · Gobuster · CMSeeK
+
+[ `OPEN REPOSITORY →`](https://github.com/adiz777/Om)
+
+</td>
     <td width="50%" valign="top">
-      <h3><a href="https://github.com/adiz777/NETRA">NETRA — Cybersecurity Intelligence</a></h3>
-      A developing intelligence platform concept focused on organising investigation workflows and presenting security findings through a unified interface.
-      <br/><br/>
-      <strong>Focus:</strong> Domain and IP intelligence, cases, investigation timelines, relationship mapping, AI-assisted analysis and reporting.
-      <br/><br/>
-      <a href="https://github.com/adiz777/NETRA">View repository →</a>
-    </td>
+
+#### <a href="https://github.com/adiz777/NETRA">02 / NETRA</a>
+**Cybersecurity Intelligence Platform**
+
+```text
+TYPE  Investigation workspace
+FOCUS Cases • Intel • Relationships
+```
+
+A developing platform concept for organising investigation workflows and presenting findings in one interface.
+
+**Focus:** Domain/IP intelligence · Case tracking · Timelines · Relationship graphs · AI-assisted analysis · Reports
+
+[ `OPEN REPOSITORY →`](https://github.com/adiz777/NETRA)
+
+</td>
   </tr>
 </table>
 
-## Technical skills
+### `adi@DharmaCipher:~$ cat /etc/toolkit`
 
-**Security & investigation**
+| DOMAIN | TOOLKIT |
+|---|---|
+| Recon & OSINT | Nmap, Amass, Sublist3r, theHarvester, Gobuster, CMSeeK |
+| Web & DNS | WhatWeb, WafW00f, DNSRecon, SSLScan |
+| Scripting | Bash, Python, JavaScript |
+| Environment | Linux, Kali Linux, Git, GitHub |
+| Web / data | HTML, CSS, PHP, MySQL |
 
-![OSINT](https://img.shields.io/badge/OSINT-Research-1f6feb?style=flat-square)
-![Reconnaissance](https://img.shields.io/badge/Reconnaissance-Enumeration-1f6feb?style=flat-square)
-![Web Security](https://img.shields.io/badge/Web_Security-Fundamentals-1f6feb?style=flat-square)
-![Reporting](https://img.shields.io/badge/HTML-Reporting-1f6feb?style=flat-square)
+<p>
+  <img src="https://img.shields.io/badge/BASH-0b1220?style=flat-square&logo=gnubash&logoColor=58a6ff" alt="Bash" />
+  <img src="https://img.shields.io/badge/PYTHON-0b1220?style=flat-square&logo=python&logoColor=58a6ff" alt="Python" />
+  <img src="https://img.shields.io/badge/KALI_LINUX-0b1220?style=flat-square&logo=kalilinux&logoColor=58a6ff" alt="Kali Linux" />
+  <img src="https://img.shields.io/badge/OSINT-0b1220?style=flat-square&logoColor=d6b15e" alt="OSINT" />
+  <img src="https://img.shields.io/badge/SECURITY_AUTOMATION-0b1220?style=flat-square&logoColor=d6b15e" alt="Security automation" />
+</p>
 
-**Languages & scripting**
+### `adi@DharmaCipher:~$ ./mission.sh`
 
-![Bash](https://img.shields.io/badge/Bash-121011?style=flat-square&logo=gnubash&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
+```bash
+#!/usr/bin/env bash
+# Mission: make security knowledge practical.
 
-**Tools & platforms**
+recon       # discover the surface
+correlate   # turn data into context
+automate    # reduce repetitive work
+document    # make findings useful
+```
 
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
-![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=flat-square&logo=kalilinux&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-
-**Security tools:** Nmap · Amass · Sublist3r · DNSRecon · WhatWeb · WafW00f · SSLScan · Gobuster · theHarvester · CMSeeK
-
-## GitHub overview
+### `adi@DharmaCipher:~$ git --status`
 
 <div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=adiz777&show_icons=true&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&icon_color=58a6ff" alt="GitHub statistics for adiz777" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adiz777&layout=compact&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9" alt="Most-used languages on GitHub" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=adiz777&show_icons=true&hide_border=true&bg_color=0b1220&title_color=58a6ff&text_color=c9d1d9&icon_color=d6b15e" alt="GitHub stats for adiz777" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adiz777&layout=compact&hide_border=true&bg_color=0b1220&title_color=58a6ff&text_color=c9d1d9" alt="Most-used languages on GitHub" />
 </div>
-
-## Let's connect
-
-I’m interested in opportunities to learn, collaborate, and contribute to practical cybersecurity work.
-
-- **Portfolio:** [adizala.me](https://adizala.me)
-- **GitHub:** [github.com/adiz777](https://github.com/adiz777)
-- **Email:** [adizala7303@gmail.com](mailto:adizala7303@gmail.com)
-- **LinkedIn:** [Adityarajsinh Zala](https://www.linkedin.com/in/adityarajsinh-zala)
 
 ---
 
 <div align="center">
-  <sub>Learn continuously. Build carefully. Make security practical.</sub>
+
+```text
+[ CONNECTION OPEN ]  adizala.me
+[ CHANNEL         ]  github.com/adiz777
+[ END OF OUTPUT   ]  keep learning. keep building.
+```
+
+<sub>Inspired by terminal culture, a recon-first mindset, and the balance of discipline and curiosity.</sub>
+
 </div>
