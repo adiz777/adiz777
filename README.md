@@ -99,6 +99,33 @@ A developing platform for bringing investigation workflows and security findings
 </tr>
 </table>
 
+<table>
+<tr>
+<td valign="top">
+
+### <a href="https://github.com/adiz777/eye-of-dharma">EYE OF DHARMA // 03</a>
+
+**OPEN INTELLIGENCE & INVESTIGATION SYSTEM**
+
+```yaml
+project: EYE OF DHARMA
+language: TypeScript / Node.js
+type: OSINT + CTI operations center
+status: early alpha
+```
+
+An operations-center style platform that ingests live public feeds (USGS, NASA EONET, CISA, RSS), runs passive DNS / RDAP / certificate-transparency lookups, and keeps findings in a tamper-resistant evidence ledger with cases and an entity graph. Public data only, source-attributed throughout.
+
+`MAPLIBRE` `CYTOSCAPE` `SQLITE` `ZOD` `SSRF GUARD` `VITEST`
+
+[ VIEW SOURCE ↗](https://github.com/adiz777/eye-of-dharma)
+
+<a href="https://github.com/adiz777/eye-of-dharma"><img src="https://raw.githubusercontent.com/adiz777/eye-of-dharma/main/docs/screenshots/global-monitor.png" width="100%" alt="Eye of Dharma global monitor with live USGS earthquake clusters" /></a>
+
+</td>
+</tr>
+</table>
+
 ## `03 // TOOLCHAIN`
 
 | MODULE | CAPABILITIES |
